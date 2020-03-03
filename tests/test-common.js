@@ -67,6 +67,9 @@ const TEST_TYPES = {
         // unused scoped context
         /expand-manifest.jsonld#tc032$/,
         /expand-manifest.jsonld#tc033$/,
+        // nesting
+        /expand-manifest.jsonld#tc034$/,
+        /expand-manifest.jsonld#tc035$/,
       ]
     },
     fn: 'expand',
@@ -165,6 +168,9 @@ const TEST_TYPES = {
         // unused scoped context
         /toRdf-manifest.jsonld#tc032$/,
         /toRdf-manifest.jsonld#tc033$/,
+        // nesting
+        /toRdf-manifest.jsonld#tc034$/,
+        /toRdf-manifest.jsonld#tc035$/,
       ]
     },
     fn: 'toRDF',
